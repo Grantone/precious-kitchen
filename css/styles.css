@@ -5,7 +5,31 @@
   width: 100px;
   float: left;
 }
+  #hour {
+    padding: 20px;
+    text-align: center;
+    color: black;
+  }
 
+
+#breakfast {
+  padding: 105px;
+  background-image: url(../img/foodtop/breakfast.jpg);
+  color: white;
+
+}
+.lunch {
+  padding: 80px;
+  background-image: url(../img/foodtop/lunch.jpg);
+  color: white;
+
+}
+.dinner {
+  padding: 80px;
+  background-image: url(../img/foodtop/dinner.jpg);
+  color: white;
+
+}
 #buger {
   cursor: pointer;
   display: block;
