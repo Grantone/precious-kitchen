@@ -1,4 +1,4 @@
-Granton Mchana.
+#Granton Mchana.
 
 This is all about foods and what we offer as the best caterers, 17 August, 2017
 
@@ -8,9 +8,8 @@ Its yummy and delicious we give the best and our services are just owesome!! :) 
 
 ## Technologies Used
 
-HTML.
-CSS.
-JAVASCRIPT.
+*CSS.
+*JAVASCRIPT.
 
 
 ## Support and contact details
