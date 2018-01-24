@@ -8,9 +8,8 @@ Its yummy and delicious we give the best and our services are just owesome!! :) 
 
 ## Technologies Used
 
-*CSS.
-*JAVASCRIPT.
-
+* CSS.
+* JAVASCRIPT.
 
 ## Support and contact details
 Incase of any comment or clarification or an inquiry, please contact us through; gmchana254@gmail.com
